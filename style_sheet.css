@@ -1,0 +1,39 @@
+.heading{
+    font-style: oblique;
+    color:rgb(206,181,212);
+
+}
+.workout, tbody{
+    border: 1px solid rgb(206,181,212);
+    border-collapse: collapse;
+}
+input{
+    background-color: rgb(206,181,212);
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+.exo, th, td{
+    width: 8cm;
+    height: 60px;
+    font-size: 25px;
+    text-align: center;
+}
+button{
+    background-color: rgb(206,181,212);
+    width: 270px;
+    height: 40px;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 20px;
+}
+table{
+    background-color: rgb(78,122,177);
+}
+body, form{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    background-color: rgb(16,43,83);
+}
